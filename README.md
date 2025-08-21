@@ -12,7 +12,7 @@ My interests lie in **game development**, **virtual reality** and **programming*
 One of my main projects is my **Bachelor’s Thesis**, where I designed and developed a **VR climbing simulator** in Unity using the XR Interaction Toolkit.  
 The simulator is set on the **obelisk of the Faculty of Architecture at CTU** and features:
 
-- 🧗 Realistic climbing mechanics with hand-based interactions  
+- 🧗 Realistic climbing and jumping mechanics with hand-based interactions  
 - 🏗️ Procedural generation of climbing paths with variation in difficulty 
 - 🎮 VR-optimized user interface and menus  
 - 📊 User testing with questionnaires as part of the evaluation part of my thesis 
