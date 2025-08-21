@@ -25,6 +25,6 @@ The simulator is set on the **obelisk of the Faculty of Architecture at CTU** an
 ## 📫 Get in Touch
 
 - ✉️ [veronikamanhalova@gmail.com](mailto:veronikamanhalova@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/veronikamanhalova)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/veronikamanhalova)
 
 ---
